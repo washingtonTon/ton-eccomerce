@@ -172,7 +172,6 @@ Este projeto está sob a licença MIT.
 Sinta-se livre para estudar, modificar e usar como base para seus próprios projetos.
 🔗 seu-portfolio.com
 
-📧 seu@email.com
 
 📝 Licença
 
