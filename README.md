@@ -162,7 +162,7 @@ Integração com back-end futuramente
 
 Desenvolvido por Washington Caio Venancio
 
-🔗 https://github.com/washingtonTon/ton
+🔗 https://washingtonton.github.io/ton-eccomerce/
 
 📧 washington_caio@hotmail.com
 
